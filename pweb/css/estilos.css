@@ -1,0 +1,57 @@
+
+h1{
+    color: rgba(99, 92, 4, 0.473);
+    text-align: center;
+
+}
+h1{
+    color: rgb(32, 4, 133);
+    text-align: center;
+    
+    
+}
+h3{
+    color: rgba(8, 71, 17, 0.849);
+    text-align: center;
+}
+h2{
+    color: rgb(245, 10, 10);
+    text-align: center;
+}
+body{
+ 
+ background-color: rgb(133, 191, 245);
+
+ }  
+
+.imagen{
+    width: 100px;
+     
+}
+.imagen2{
+    width: 400px;
+    height: 500px;
+    
+}
+.formas{
+    background-size: cover;
+    border-radius: 1000px;
+    
+
+}
+.boton{
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(214, 152, 18);
+    font-weight: bold;    
+}
+
+.boton1{
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(147, 216, 20);
+    font-weight: bold;
+    justify-content: space-between;    
+}   
